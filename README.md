@@ -3,7 +3,7 @@
 This app was designed to help users log and track their daily weight over time. The goal was to create a simple tool that allows users to see patterns and progress without overwhelming them with too many features. Many weight loss apps try to track everything at once, but this app focuses on only tracking a daily weight.
 
 
-The app includes a login screen, a main screen where users can enter their current weight, and a history screen where they can view previous entries. These screens were necessary to support the core user need—logging weight quickly and reviewing past data. I kept the interface clean and minimal so users can enter their weight without confusion. 
+The app includes a login screen, a main screen where users can enter their current weight, and a history screen where they can view previous entries. These screens were necessary to support the core user need of logging weight quickly and reviewing past data. I kept the interface clean and minimal so users can enter their weight without confusion. 
 
 When coding the app, I built it step by step. I started with the structure and navigation, then added the functionality to store and display weight entries. I made sure each feature worked before adding the next one. Breaking the app into smaller parts made it easier to manage and debug. This approach will be useful in future projects because it keeps development organized and reduces errors.
 

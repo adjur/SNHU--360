@@ -1,4 +1,4 @@
-Weight Tracking App
+***Weight Tracking App***
 
 This app was designed to help users log and track their daily weight over time. The goal was to create a simple tool that allows users to see patterns and progress without overwhelming them with too many features. Many weight loss apps try to track everything at once, but this app focuses on only tracking a daily weight.
 

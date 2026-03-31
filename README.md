@@ -2,6 +2,7 @@ Weight Tracking App
 
 This app was designed to help users log and track their daily weight over time. The goal was to create a simple tool that allows users to see patterns and progress without overwhelming them with too many features. Many weight loss apps try to track everything at once, but this app focuses on only tracking a daily weight.
 
+<img width="940" height="681" alt="Screenshot 2026-03-31 at 2 16 54 PM" src="https://github.com/user-attachments/assets/104c4471-4c76-47ea-ad7b-17aac66f3d3d" />
 
 The app includes a login screen, a main screen where users can enter their current weight, and a history screen where they can view previous entries. These screens were necessary to support the core user need of logging weight quickly and reviewing past data. I kept the interface clean and minimal so users can enter their weight without confusion. 
 
